@@ -1,0 +1,29 @@
+{
+  "name": "lockscreen-cli",
+  "version": "1.0.0",
+  "description": "Lock screen of your pc via CLI",
+  "main": "index.js",
+  "bin": {
+    "lockscreen": "index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelzoidl/lockscreen-cli.git"
+  },
+  "keywords": [
+    "lockscreen",
+    "cli"
+  ],
+  "author": "Michael J. Zoidl <npm@michaelzoidl.com> (http://michaelzoidl.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelzoidl/lockscreen-cli/issues"
+  },
+  "homepage": "https://github.com/michaelzoidl/lockscreen-cli#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
