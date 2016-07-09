@@ -1,6 +1,6 @@
 {
   "name": "lockscreen-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lock screen of your pc via CLI",
   "main": "index.js",
   "bin": {
@@ -25,5 +25,7 @@
   },
   "homepage": "https://github.com/michaelzoidl/lockscreen-cli#readme",
   "devDependencies": {},
-  "dependencies": {}
+  "dependencies": {
+    "lockscreen": "^1.0.0"
+  }
 }
