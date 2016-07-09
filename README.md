@@ -1,4 +1,4 @@
-# lockscreen-cli
+# Lockscreen - CLI
 > Lock your screen from the terminal
 
 ## Install
