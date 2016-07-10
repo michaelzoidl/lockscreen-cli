@@ -7,9 +7,9 @@ $ npm install lockscreen-cli -g
 ```
 
 ## Usage
+Simple execute `lockscreen` in your terminal
 ```
-# Simple execute `lockscreen` in your terminal
-lockscreen
+$ lockscreen
 ```
 
 ## Related to
